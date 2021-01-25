@@ -1,0 +1,16 @@
+
+
+body {
+    text-align: center;
+    background-color: #a9d7e9;
+}
+h1 {
+    font-size: 3em;
+}
+p {
+    font-size:1.5em;
+}
+.form-rows {
+    position: static;
+    display: block;
+}
